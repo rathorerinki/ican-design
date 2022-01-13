@@ -27,6 +27,7 @@
   <?php
   require_once('home-header.php');
   ?>
+  <!-- 10-01-22 -->
 	<div class="page-banner" style="background-image: url('assets/images/about-bg.png')">
       <div class="page-title-wrapper">
         <div class="container">
