@@ -68,30 +68,30 @@
                                 <div class="col-md-12 col-sm-12 col-12 col-lg-12">
 
                                 
-                                      <div class="our-team">
-                                     
-                                          <div class="row left_align">
+                                  <div class="our-team">
+                                  
+                                      <div class="row left_align">
 
-                                                  <div class="col-md-5 col-lg-5 col-sm-5 col-12">
-                                                      <div class="pictures">
-                                                      <img class="img-fluid office-hrs" src="https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500">
-                                                      </div>
+                                              <div class="col-md-5 col-lg-5 col-sm-5 col-12">
+                                                  <div class="pictures">
+                                                  <img class="img-fluid office-hrs" src="https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500">
                                                   </div>
-                                                  <div class="col-md-7 col-lg-7 col-sm-7 col-12">
-                                                      <div class="team-content">
-                                                          <h4 class="name">Smith Roy</h4>
-                                                          <span class="fa fa-calendar"></span> &nbsp;29 Dec, 2021 <br/> 
-                                                          <span class="fa fa-clock-o"></span> &nbsp; 6 AM to 6:30 AM <br/>
-                                                      </div>
-                                                      <br/>
-                                                      <a href="#" class="view-details">View Details</a>
-                                                     
+                                              </div>
+                                              <div class="col-md-7 col-lg-7 col-sm-7 col-12">
+                                                  <div class="team-content">
+                                                      <h4 class="name">Smith Roy</h4>
+                                                      <span class="fa fa-calendar"></span> &nbsp;29 Dec, 2021 <br/> 
+                                                      <span class="fa fa-clock-o"></span> &nbsp; 6 AM to 6:30 AM <br/>
+                                                  </div>
+                                                  <br/>
+                                                  <a href="#" class="view-details">View Details</a>
                                                   
-                                                  </div>
-                                              </div>                                  
-                                      </div>
-                                          
+                                              
+                                              </div>
+                                          </div>                                  
                                   </div>
+                                          
+                                </div>
                         </div>
                     </div>
                     <div class="modal-footer">

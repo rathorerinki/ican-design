@@ -1,8 +1,8 @@
 
-    button.btn.btn-default.dropdown-toggle:hover {
-      outline: none !important;
-  }
-    
+  button.btn.btn-default.dropdown-toggle:hover {
+    box-shadow: 10px 10px #00800005 !important;
+    outline: none !important;
+}
     
   .avatar-profile {
     vertical-align: middle;
@@ -11,6 +11,17 @@
     border-radius: 50%;
   }
     
+  .btn:focus {
+    outline: 0;
+    box-shadow: 0 0 0 0.2rem #3535351f;
+  }
+
+
+  .dropdown-menu.dropdown-menu-right.show {
+    margin-top: 72px;
+    transform: translate3d(-15px, -298px, 0px) !important;
+}
+
   .dropdown-menu {
     padding-left: 10px;
     min-width: 13rem;   

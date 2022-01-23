@@ -46,6 +46,8 @@
             <div class="col-sm-12" >
             <div class="input-group" >
             <input id="table_filter" type="text" class="form-control" aria-label="Text input with segmented button dropdown" placeholder="Search...." >
+
+            
             <div class="input-group-btn" >
                 <button type="button" class="btn btn-secondary dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" ><span class="label-icon" >Filters</span> <span class="caret" >&nbsp;</span></button>
                 <div class="dropdown-menu dropdown-menu-right" >
@@ -79,6 +81,9 @@
                     </li>
                 </ul>
                 </div>
+
+
+
                 <button id="searchBtn" type="button" class="btn btn-secondary btn-search" ><span class="glyphicon glyphicon-search" >&nbsp;</span> <span class="label-icon" >Search</span></button>
             </div>
             </div>
