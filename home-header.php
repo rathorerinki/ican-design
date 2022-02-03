@@ -24,6 +24,10 @@
                   <span class="badge"> 1</span>
                 </a>
               </li>
+              <li class="nav-item">
+                <a class="nav-link"  href="create.php">Create &nbsp; 
+                </a>
+              </li>
               <!-- <li class="nav-item">
                 <a class="nav-link" href="learn-skill.php">Learn skill</a>
               </li> -->

@@ -82,7 +82,7 @@
                                                 </div>
                                                 <div class="col-md-5 col-12 col-lg-5 col-sm-5">
                                                     <button class="session-start">
-                                                    <a href="#" class="color-anchor" > VIEW DETAILS</a>
+                                                    <a href="session-details.php" class="color-anchor" > VIEW DETAILS</a>
                                                     </button>
                                                 </div>
                                             </div>
@@ -109,7 +109,7 @@
                                                 </div>
                                                 <div class="col-md-5 col-12 col-lg-5 col-sm-5">
                                                     <button class="session-start">
-                                                    <a href="#" class="color-anchor" > VIEW DETAILS</a>
+                                                    <a href="session-details.php" class="color-anchor" > VIEW DETAILS</a>
                                                     </button>
                                                 </div>
                                             </div>
@@ -136,7 +136,7 @@
                                                 </div>
                                                 <div class="col-md-5 col-12 col-lg-5 col-sm-5">
                                                     <button class="session-start">
-                                                    <a href="#" class="color-anchor" > VIEW DETAILS</a>
+                                                    <a href="session-details.php" class="color-anchor" > VIEW DETAILS</a>
                                                     </button>
                                                 </div>
                                             </div>
@@ -163,7 +163,7 @@
                                                 </div>
                                                 <div class="col-md-5 col-12 col-lg-5 col-sm-5">
                                                     <button class="session-start">
-                                                    <a href="#" class="color-anchor" > VIEW DETAILS</a>
+                                                    <a href="session-details.php" class="color-anchor" > VIEW DETAILS</a>
                                                     </button>
                                                 </div>
                                             </div>
@@ -190,7 +190,7 @@
                                                 </div>
                                                 <div class="col-md-5 col-12 col-lg-5 col-sm-5">
                                                     <button class="session-start">
-                                                    <a href="#" class="color-anchor" > VIEW DETAILS</a>
+                                                    <a href="session-details.php" class="color-anchor" > VIEW DETAILS</a>
                                                     </button>
                                                 </div>
                                             </div>
@@ -217,7 +217,7 @@
                                                 </div>
                                                 <div class="col-md-5 col-12 col-lg-5 col-sm-5">
                                                     <button class="session-start">
-                                                    <a href="#" class="color-anchor" > VIEW DETAILS</a>
+                                                    <a href="session-details.php" class="color-anchor" > VIEW DETAILS</a>
                                                     </button>
                                                 </div>
                                             </div>
